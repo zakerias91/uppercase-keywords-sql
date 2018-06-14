@@ -1,5 +1,5 @@
 # Uppercase keywords in a SQL file
-This package uppercases keywords in a SQL file
+This package uppercases keywords in a SQL file.
 
 ## Keywords.txt
 Words that appear in keywords.txt will be converted to uppercase in the SQL file. For example: ```select,from,where``` in keywords.txt will convert:
