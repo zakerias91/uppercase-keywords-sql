@@ -27,3 +27,6 @@ To run the script enter:
 python uppercase_keywords.py yoursqlfile.sql
 ```
 This will create an .UPPERCASE file in your directory with the original SQL filename.
+
+## Notes
+Please note that this program only performs basic string-matching and does not recognise individual words. To demonstrate, if you were to add ```if``` to keywords.txt it would uppercase where it found those characters, e.g. mummIFication.
